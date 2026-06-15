@@ -8,7 +8,8 @@ A clean, simple single-page portfolio website built to showcase my journey as a 
 ## Feautures
 - **About Me:** A brief introduction to who I am and my passion for code.
 - **Learning path:** A breakdown of my skills in html, css, and taiwind css.
-- **Projects:** A showcase of my recent work and digital assets.
+- **Projects:** A showcase section displaying of my recent work and digital creations.
+- **Skills:** A neat, three-card display showing the core frontend development technologies I work with dialy.
 - **Static contact info:** A simple "get in touch" contact text forms.
 
 ## Tech Used
