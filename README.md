@@ -14,4 +14,4 @@ A clean, simple single-page portfolio website built to showcase my journey as a 
 
 ## Tech Used
 - **HTML:** For page structure and semantic layout.
-- **Tailwind css:**I used Tailwind css For the soft pink background styling and  design via direct CDN script link.
+- **Tailwindcss:** I used Tailwind css For the soft pink background styling and  design via direct CDN script link.
